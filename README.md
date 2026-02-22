@@ -1,5 +1,15 @@
 # NAIROBI-LISTINGS-ANALYSIS
+
+![Python](https://img.shields.io/badge/python-3.12+-blue.svg) 
+![Pip](https://img.shields.io/badge/pip-v24.0+-green.svg)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-orange.svg)
+![Pandas](https://img.shields.io/badge/pandas-2.1+-blueviolet.svg)
+![NumPy](https://img.shields.io/badge/numpy-1.26+-brightgreen.svg)
+![Power BI](https://img.shields.io/badge/Power%20BI-latest-yellow.svg)
+
 Nairobi house price prediction : scraping → cleaning → ML → Streamlit dashboard
+
+This project is a full-stack machine learning system that predicts residential property prices in Nairobi, Kenya, using real market listings. From raw web data to a live prediction app, it showcases an end-to-end data science workflow built for real-world impact.
 
 ![](https://github.com/MastingoJay/NAIROBI-LISTINGS-ANALYSIS/blob/main/pictures/Nairobi%20Global%20Trade%20Center.jfif)
 
